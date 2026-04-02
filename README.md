@@ -8,7 +8,7 @@ Connectify is a production-ready, real-time messaging platform inspired by Whats
 - **Real-time Messaging**: Instant delivery with read receipts and active polling.
 - **Google OAuth**: Fast login and registration with standard `laravel/socialite`.
 - **AI Tone Converter**: Rewrite messages in different tones — Formal, Friendly, Professional, and Funny — powered by Groq / OpenAI / Gemini.
-- **AI-Powered Translations**: Real-time message translation using Groq (Llama-3).
+- **AI-Powered Multilingual Translation**: Translate messages into any language in real-time using Groq (Llama-3) — supports continuous auto-translation mode.
 - **Advanced Interactions**: Message reactions (👍, ❤️), forwarding, replies, and pinned chats.
 - **Group Architecture**: Add members, exit groups, and block individual users.
 - **Docker-Ready**: Instantly deployable isolated container stack (PHP-FPM + Nginx + MySQL).
