@@ -15,6 +15,23 @@ Connectify is a production-ready, real-time messaging platform inspired by Whats
 
 ---
 
+## 🖼️ Application Visuals
+
+<div align="center">
+  <img src="screenshots/landing_page.png" alt="Landing Page" width="800">
+  <p><i>The Modern Landing Page — Clean, glassmorphic UI.</i></p>
+  <br>
+  <img src="screenshots/chat_active.png" alt="Active Chat" width="800">
+  <p><i>The Real-time Chat Interface — Dark themed, WhatsApp-inspired design.</i></p>
+</div>
+
+### 📂 More Previews
+| **Login Page** | **Registration Page** | **Chat List (Empty)** |
+|:---:|:---:|:---:|
+| <img src="screenshots/login_page.png" width="300" /> | <img src="screenshots/register_page.png" width="300" /> | <img src="screenshots/chat_main.png" width="300" /> |
+
+---
+
 ## ⚙️ Environment Configuration
 
 You must configure the environment variables correctly before running the application.
